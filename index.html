@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto-portrait Enzo Fortes</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alice&family=Cinzel+Decorative:wght@700&display=swap" rel="stylesheet">
+    <link rel="icon" type="icon" href="images/portrait-icone.svg">
+</head>
+<body>
+    <header id="home">
+        <nav > <!--menu de navigation-->
+            <ul>
+                <li class="reverse">
+                    <a href="#Ayo&Teo">|  mouvement de danse  |</a>
+                </li>
+                <li class="pita">
+                    <a href="#Pitaya">|  fruit  |</a>
+                </li>
+                <li class="encein" >
+                    <a href="#Enceinte">|  objet  |</a>
+                </li>
+                <li class="brun">
+                    <a href="#couleurbrun">|  couleur  |</a>
+                </li>
+                <li class="démineur">
+                    <a href="#coverDémineur">|  album  |</a>
+                </li>
+                <li class="automne">
+                    <a href="#Automne">|  saison  |</a>
+                </li>
+                <li class="crépuscule">
+                    <a href="#Crépuscule">|  moment de la journée  |</a>
+                </li>
+            </ul>
+        </nav> <!--Pop-up d'information-->
+        <button id="show-modal-btn">?</button>
+            <div id="overlay">
+                <div id="modal">
+                    <h3 class="modaltxt">Qu'est-ce que c'est un portrait chinois ?</h3>
+                    <p class="modaltxt">Un portrait chinois est un jeu littéraire de type questionnaire de Proust où il
+                        s'agit de déceler, à travers un questionnaire, certains aspects de la personnalité d'un individu ou
+                        d'identifier ses goûts ou ses préférences personnelles.</p>
+                    <button id="close-modal-btn">Fermer</button>
+                </div>
+            </div>
+        <!--Titre -->
+        <h1>Portrait chinois <br> - <br>Enzo Fortes</h1>
+        <a href="#Ayo&Teo" id="discover">↓ DÉCOUVRIR ↓</a>
+    </header>
+    <main> <!--Formulaire-->
+        <div class="liste-analogies"></div>
+        <form action="" method="post" id="àvous">
+            <h3 class="formulaire">A Vous</h3>
+
+            <label for="mail">Mail</label>
+            <input type="email" name="Si j’étais…" id="mail" placeholder="Ton adresse mail" required> 
+            
+            <label for="analog">Si j'étais</label>
+            <input size="30px" type="text" name="Si j’étais…" id="analog" placeholder="Entrer une catégorie (Ex : un animal)" required> 
+            
+            <label for="val">Je serais</label>
+            <input size="30px" type="text" name="Je serais…" id="val" placeholder="Entrer un élément (Ex : un lion)" required>
+
+            <label for="url">Url d'image</label>
+            <input type="url" id="imganalogie" name="imganalogie" placeholder="Le lien d'une image" required>
+
+            <label for="justif">Raisons</label>
+            <textarea size="50px" type="text" id="raisons" placeholder="Cela me ressemble parce que..."  cols="40" rows="5" spellcheck="true"></textarea>
+
+            <p class="valid">
+                <input type="button" value="valider" class="soumettre" id="sub">
+            </p>
+            <div id="message"></div>
+        </form>
+        <div id="vous"></div>
+    </main>
+</body>
+<footer> <!--Mentions légales-->
+    <div class="volet-invisible" id="volet">
+        <h4>Mentions Légales</h4>
+
+        <p>ÉDITEUR</p>
+        <p>Directeur de la publication,Conception graphique et Développement : Amezir Messaoud, étudiant de
+            l’Université Gustave Eiffel</p>
+        <p>Hébergeur : Université Gustave Eiffel</p>
+        <p>Université Gustave Eiffel : 5 boulevard Descartes - Champs-sur-Marne - 77454 Marne-la-Vallée Cedex2 - Tél
+            : 33(1).60.95.75.00 - Fax : 33(1).60.95.75.75</p>
+
+        <p>Images</p>
+        <p><a
+                href="https://fr.depositphotos.com/152885756/stock-photo-ayo-teo-at-the-mtv.html">image ayo teo.jpg</a>
+            <a
+                href="https://pixabay.com/fr/photos/fruit-du-dragon-fruit-de-la-passion-1532127/">fruit du dragon.jpeg</a>
+            <a
+                href="https://unsplash.com/fr/photos/YU-OA2TvQRQ">image enceinte.jpg</a>
+            <a
+                href="https://th.bing.com/th/id/R.1b7b222cc05bb05979919390cbb1f095?rik=h3MuXiDkMYtqAw&riu=http%3a%2f%2fbonmatin.ch%2fwp-content%2fuploads%2f2016%2f04%2ffond-uni-brun.png&ehk=9BypUV7mfmcoetE5lNc2cPuhy6A14Mm68zrr9HLTC9U%3d&risl=&pid=ImgRaw&r=0">image brun.png</a>
+            <a href="https://genius.com/album_cover_arts/771173">cover lefa démineur.jpg</a>
+            <a
+                href="https://pixabay.com/fr/photos/route-for%c3%aat-chemin-piste-1072821/">image automne.jpg</a>
+            <a
+                href="https://pixabay.com/fr/photos/le-coucher-du-soleil-aube-soleil-3331503/">image crépuscule.jpg</a>
+        </p>
+        <p>Législation relative aux données à caractère personnel</p>
+        <p>Le formulaire permettant la création d’une analogie personnalisée recueil votre adresse de courriel et
+            votre adresse IP.
+            Pour toute question portant sur la collecte ou le traitement de vos données à caractère personnel par
+            l’UPEM, vous pouvez saisir la personne responsable du traitement des données qui est : Philippe Gambette
+            (philippe.gambette@univ-eiffel.fr)
+            Les fichiers détenus par l'UPEM qui comportent des données à caractère personnel ne seront jamais
+            transmis à des tiers et ne feront jamais l'objet d'une commercialisation.</p>
+        <p>©2022 Tous droits réservés par ENZO FORTES.</p>
+    </div>
+</footer>
+    <script src="data.js">
+        KeyboardEvent.key("analog")
+    </script>
+</html>

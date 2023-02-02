@@ -1,0 +1,64 @@
+[   
+   {
+    "analo": "un mouvement de danse",
+    "valeur": "le reverse",
+    "img": "images/image ayo teo.jpg",
+    "txt": "Étant mon mouvement de danse favori mais également à travers le sens qu'on peut lui attribuer, j'ai choisi le reverse, inventé par les danseurs et frères américains Ayo & Teo. Le reverse a des milliers de variantes mais la manière la plus classique est de faire quelques pas en arrière, un blocage, puis quelques pas en avant en prennat soin d'effecture exactement les mêmes gestes qu'au recul mais cette fois dans le sens inverse comme si on reculait dans le temps. Pour l'effectuer, il faut une bonne maîtrise de ses muscles autrement dit de son corps. Le fait que l'on aille vers l'arrière avant de revenir vers le présent de la même manière me plaît beaucoup car je peux comparer cela à une rétrospection ensuite revenir plus fort dans le présent.",
+    "id": "Ayo&Teo",
+    "down": "\u0023Pitaya"
+   },
+
+   {
+    "analo": "un fruit",
+    "valeur": "le fruit du dragon",
+    "img": "images/fruit du dragon.jpeg",
+    "txt":"Le fruit du dragon et très particulier car il est rare et cher, en plus de son goût à son esthétique. Visuellement parlant ce fruit est totalement différent de tout autre fruit pour aller plus loin et pour comprendre en quoi ce fruit me ressemble, il faut l'ouvrir. En effet son intérieur est tout à fait différent de son extérieur autant dans la matière que dans la couleur et étant une personne qui peut par moment être une fois en contactavec l'exterieur et avec des personnes qui me sont chères, extraverti et mais lorsque je suis seul je suis introverti, et j'ai ce genre d'oppostion sur plein d'autres de mes traits de caractère.",
+    "id": "Pitaya",
+    "down": "\u0023Enceinte"
+   },
+
+   {
+    "analo": "un objet",
+    "valeur": "une enceinte",
+    "img": "images/image enceinte.jpg",
+    "txt":"Effectivement, la musique est présente de manière constante dans ma vie : je chante, je fredonne, j'ai parfois des mélodies en tête, certains sons de beatbox sortent parfois de ma bouche, ma tête bouge toute seule, je fais de la musique, j'écris des textes de rap, je fais du beatmaking, en bref la musique est omniprésente en ma personne.",
+    "id":"Enceinte",
+    "down": "\u0023couleurbrun"
+   },
+
+   {
+    "analo": "une couleur",
+    "valeur": "le brun",
+    "img": "images/image brun.png",
+    "txt":"Étant le mélange de la couleur bleu et la couleur orange celle-ci me ressemble parfaitement. Le bleu symbolise la spiritualité la pensée l'infini le vide l'éternité et la transparence. Cette couleur est associée à des traits de caractère tel que le rêve la sagesse la loyauté et la vérité. Elle est la couleur qui représente les personnes patientes et persévérante. Cela correspond à une grande part de tout ce qui me définit et la seconde part et celle du orange. Le orange symbolise l'optimisme la chaleur l'ouverture d'esprit la communication la santé et la sécurité et la créativité. Elle est souvent associée à des personnes plutôt du genre épicurien. ces deux couleurs complémentaires forment le brun",
+    "id":"couleurbrun",
+    "down": "\u0023coverDémineur"
+   },
+
+   {
+    "analo": "un album",
+    "valeur": "Démineur",
+    "img": "images/cover lefa démineur.jpg",
+    "txt":"Cet album de mon artiste favori Lefa et celui qui représente le plus ma personne et mes pensées. Des remises en question sur les choix du passé, des réflexions sur la manière de vivre vis-à-vis du temps qu'il nous reste à vivre, des bilans et avis sur la société , sur les hommes politiques, sur la liberté, sur la police, sur le racisme, sur nos rapports à l'environnement, la superficialité des gens, sur les objectifs d'une vie, sur le testament, un lâcher prise, une renaissance spirituelle, une déception amoureuse et une vengeance. Il y a tout ce que j'ai pu vivre, c'est aussi simple que ça.",
+    "id":"coverDémineur",
+    "down": "\u0023Automne"
+   },
+
+   {
+    "analo": "une saison",
+    "valeur": "l'automne",
+    "img": "images/image automne.jpg",
+    "txt":"je suis quelqu'un de toujours nuancé, mitigé, plus pensif que les autres mais c'est très certainement ce qui ma singularité. Ces caractèristiques m'évoque l'automne, positionné entre la fin de l'été et le début de l'hiver, durant laquelle les arbres perdent leurs feuilles peu à peu, comme la perte de temps ou de moments de joies à causes d'un grand nombre de réfléxions...",
+    "id":"Automne",
+    "down": "\u0023Crépuscule"
+   },
+
+   {
+    "analo": "un moment de la journée",
+    "valeur": "le crépuscule",
+    "img": "images/image crépuscule.jpg",
+    "txt":"Le crépuscule est un moment de la journée qui est selon moi le plus beau de la journée. Ses beaux couchés de soleil, son ciel orange, etc. Et pourtant, rien que le terme crépuscule n'est pas connu de tous et certainement dû au fait que sa durée est très courte. Finalement cela ressemble à ma philoqophie qui est d'être le plus utile ou de faire ressentir le plus de bien autour de moi durant mon temps de vie.",
+    "id":"Crépuscule",
+    "down": "\u0023àvous"
+   }
+]
